@@ -3,7 +3,7 @@
   "description": "I am Suhail-X Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/@GlobalTechInfo",
  "logo":"https://telegra.ph/file/9dcef2b49909742db8dbd.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "documentation-link": "https://kerm-sessions-production.up.railway.app",
+  "documentation-link": "https://suhail-pair.onrender.com",
   "success_url": "/suhail/",
   "app_url": "/qr/",
   "stack":"container",
